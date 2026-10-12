@@ -1,0 +1,20 @@
+# Visual Studio / IDEs
+.vs/
+x64/
+Win32/
+*.user
+*.suo
+*.db
+*.opensdf
+*.sdf
+*.aps
+*.nc
+*.cache
+*.VC.db
+
+# Compilación y binarios de JUCE
+Builds/*/x64/
+Builds/*/Win32/
+Builds/*/.vs/
+bin/
+build/
